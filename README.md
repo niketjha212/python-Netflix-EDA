@@ -1,8 +1,8 @@
 <h1 style="font-size: 40px;">🎬 Netflix Movies & TV Shows — Exploratory Data Analysis (EDA)</h1>
 
 
-A complete exploratory data analysis of the Netflix Titles Dataset, uncovering content trends, audience ratings, country contributions, release patterns, and more.
-This project demonstrates skills in data cleaning, analysis, visualization, and insight generation using real-world data.
+This project analyzes the Netflix catalog to uncover trends in content types, ratings, durations, countries, and growth over time. The goal is to transform the raw dataset into actionable insights using Python, pandas, matplotlib, and seaborn.
+
 
 📁 Dataset Overview:
 | Feature         | Value                      |
@@ -21,7 +21,25 @@ This project demonstrates skills in data cleaning, analysis, visualization, and 
 - Handle missing values  
 - Perform univariate & bivariate analysis
 - Visualize key content distribution trends 
-- Derive real, actionable insights about Netflix’s catalog 
+- Derive real, actionable insights about Netflix’s catalog
+
+
+📂 What This Project Includes
+- Data cleaning & preprocessing
+- Handling missing values
+- Univariate & bivariate analysis
+- Visualizations of trends and patterns
+- Insights on content distribution and growth
+
+
+
+📁 Tools & Technologies Used:
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
 
 
 
@@ -79,10 +97,11 @@ This project demonstrates skills in data cleaning, analysis, visualization, and 
 
 
 
-📁 Tools & Technologies Used:
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Jupyter Notebook
+
+📁 Summary of Findings:
+- Content Growth: Sharp rise in new titles from 2017–2020
+- Catalog Recency: Nearly 60% of titles were added after 2015
+- Content Types: Movies dominate (~69%), TV Shows (~31%)
+- Durations: Movies are mostly 85–110 minutes, TV Shows have 1–2 seasons
+- Top Countries: US, India, UK, Canada, Japan
+- Ratings Breakdown: 14 rating categories; TV-MA and TV-14 are most common
