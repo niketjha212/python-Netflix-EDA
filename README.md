@@ -5,29 +5,35 @@ This project demonstrates skills in data cleaning, analysis, visualization, and 
 
 📁 Dataset Overview
 
-- Feature       	    Value
-- Total Records	    8,807 titles
-- Features	        12 columns
-- Content Types	    Movies (≈69%), TV Shows (≈31%)
-- Ratings	          14 categories
-- Countries	        100+
-- Missing Values	  Cleaned & imputed
+| Feature         | Value                      |
+|-----------------|----------------------------|
+| Total Records   | 8,807 titles               |
+| Features        | 12 columns                 |
+| Content Types   | Movies (≈69%), TV Shows (≈31%) |
+| Ratings         | 14 categories              |
+| Countries       | 100+                       |
+| Missing Values  | Cleaned & imputed          |
+
 
 
 🎯 Project Objectives
 
-- ✔️ Clean and preprocess the dataset
-- ✔️ Handle missing values
-- ✔️ Perform univariate & bivariate analysis
-- ✔️ Visualize key content distribution trends
-- ✔️ Derive real, actionable insights about Netflix’s catalog
+- Clean and preprocess the dataset ✔️ 
+- Handle missing values ✔️ 
+- Perform univariate & bivariate analysis ✔️ 
+- Visualize key content distribution trends ✔️ 
+- Derive real, actionable insights about Netflix’s catalog ✔️ 
 
 
 🔍 Key Insights From the Data
 
 📌 1. Movies vs TV Shows
-- Movies: ~6,150+
-- TV Shows: ~2,650+
+
+| Category  | Count     |
+|-----------|-----------|
+| Movies    | ~6,150+   |
+| TV Shows  | ~2,650+   |
+
 
 ➡️ Movies make up nearly 70% of all Netflix titles.
 
