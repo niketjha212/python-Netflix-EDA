@@ -32,12 +32,15 @@ This project demonstrates skills in data cleaning, analysis, visualization, and 
 ➡️ Movies make up nearly 70% of all Netflix titles.
 
 📌 2. Most Common Ratings
-- Rating	 Titles (approx)
-- TV-MA	   ~2,200
-- TV-14	   ~1,900
-- TV-PG	   ~850
-- R	       ~800
-- PG-13	   ~490
+
+| Rating | Titles (Approx) |
+|--------|------------------|
+| TV-MA  | ~2,200           |
+| TV-14  | ~1,900           |
+| TV-PG  | ~850             |
+| R      | ~800             |
+| PG-13  | ~490             |
+
 
 ➡️ Netflix’s content heavily targets mature and teen audiences.
 
@@ -49,12 +52,15 @@ Nearly 60% of the catalog added after 2015
 ➡️ Matches Netflix’s massive global expansion period.
 
 📌 4. Top Content-Producing Countries
- Rank	  Country       	 Titles
-- 🇺🇸 1	United States	   ~2,800+
-- 🇮🇳 2	India	           ~900+
-- 🇬🇧 3	United Kingdom	 ~400+
-- 🇨🇦 4	Canada	         ~300+
-- 🇯🇵 5	  Japan	           ~250+
+
+| Rank | Country          | Titles     |
+|------|------------------|------------|
+| 🇺🇸 1 | United States    | ~2,800+    |
+| 🇮🇳 2 | India            | ~900+      |
+| 🇬🇧 3 | United Kingdom   | ~400+      |
+| 🇨🇦 4 | Canada           | ~300+      |
+| 🇯🇵 5 | Japan            | ~250+      |
+
 
 ➡️ India is the 2nd largest contributor after the US.
 
